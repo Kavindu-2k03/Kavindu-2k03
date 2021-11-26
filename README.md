@@ -92,8 +92,8 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 - [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](Kavindu:kavindubashitha2003@gmail.com)
 - [![Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-098f99?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=twitter)](https://twitter.com)
 - [![Intagram](https://img.shields.io/badge/Follow%20me%20on%20Instagram-4d267a?style=style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=instagram)](https://instagram.com)
-- [![Telegram](https://img.shields.io/badge/DarkSkull%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Kavindu-2k03)
-- [![Telegram](https://img.shields.io/badge/DarkSkull%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/MEME_HUB_Group)
+- [![Telegram](https://img.shields.io/badge/Kavindu%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/Kavindu-2k03)
+- [![Telegram](https://img.shields.io/badge/Kavindu%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/MEME_HUB_Group)
 - [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCJmPdyfFnsmt5CbIETVH-SQ)
 
 <h2>Join My Group & Channel 🎉</h2>
